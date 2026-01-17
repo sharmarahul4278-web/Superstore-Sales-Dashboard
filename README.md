@@ -114,3 +114,7 @@ This project demonstrates my ability to build real-world business dashboards usi
 ### **6. Screenshot\Demos**
  (https://github.com/sharmarahul4278-web/Superstore-Sales-Dashboard/blob/main/Superstore_PowerBI_Sales_Dashboard.png)
  (https://github.com/sharmarahul4278-web/Superstore-Sales-Dashboard/blob/main/PowerBI_Sales_Dashboard_Forecast_15Days.png)
+
+7. key Features
+   .a
+   .b
