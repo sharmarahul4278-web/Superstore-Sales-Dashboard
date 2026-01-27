@@ -23,7 +23,7 @@ The dashboard was built using the following tools and technologies:
 • 📂 **Power Query** – Used for data cleaning, transformation, and preparation.
 • 🧠 **DAX (Data Analysis Expressions)** – Used to create calculated measures such as total sales, profit, and growth.
 • 🗄️ **Data Modeling** – Relationships created between tables like Orders, Customers, and Regions to enable dynamic filtering.
-• 📁 **File Format** – `.pbix` for development and `.png` for dashboard screenshots.
+• 📁 **File Format** – `.pbix` for development and `.png` for dashboard screenshots
 
 ---
 
